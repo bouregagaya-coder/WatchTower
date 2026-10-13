@@ -1,0 +1,9 @@
+numpy<2
+pandas==2.2.2
+pandasai
+python-telegram-bot[job-queue]==20.7
+nest_asyncio
+matplotlib
+requests
+dateparser
+python-dotenv
