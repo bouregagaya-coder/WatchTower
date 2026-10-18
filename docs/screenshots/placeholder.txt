@@ -1,1 +1,12 @@
 
+
+ Stock alert
+(docs/screenshots/prodactive Alert.png)
+
+ Sales question
+(docs/screenshots/sales-question2.png)
+
+ Sales question
+(docs/screenshots/sales-question 1.png)
+ Prompt injection blocked
+(docs/screenshots/Security layer blocking a prompt injection attempt..png)
